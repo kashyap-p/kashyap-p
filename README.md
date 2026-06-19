@@ -1,59 +1,100 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="50px"> I'm Kashyap Patel</h1>
+<div align="center">
 
-<!-- **Stark0702/Stark0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+# Hi, I'm Kashyap Patel 👋
 
- <br/>
+### Full-Stack Developer · MERN Stack · Docker · Node.js
 
-## 👨🏻‍💻 About Me:
+*Mechanical Engineer turned Full-Stack Developer — I bring systems thinking to every line of code.*
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-zenitsu.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zenitsu.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-p/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kashyap_0702)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__kashyap__patel__)
 
-- 🙋‍♂️ All about me is at **[My Website](https://zenitsu.in/)**
+</div>
 
-- 🔭 I’m currently working on `Something Intresting`.
+---
 
-- 🌱 I’m currently learning `MERN Stack`
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+I build efficient, scalable, and user-friendly web applications with a focus on clean architecture and real-world deployment.
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 🔭 Currently building: **[Contact List API](https://github.com/kashyap-p/Contact_List_Api)** — a production-ready Dockerized REST API on MongoDB + Node.js
+- 🚀 Exploring: **System design, TypeScript, and microservices**
+- 🤝 Open to collaborate on: **Full-stack web projects and open-source**
+- 💬 Ask me about: **JavaScript, React, Node.js, REST APIs, Docker, MongoDB**
+- 🌐 Portfolio: **[zenitsu.in](https://zenitsu.in/)**
+- ⚡ Fun fact: I transitioned from Mechanical Engineering to software development — best career move I ever made
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+---
 
-- ⚡ Fun fact: I waste most of my time playing games
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies and Tools I use:
+**Frontend**
 
-<p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ❤️ Let's get connected:
+**Backend & Database**
 
-<p> <a href="https://www.linkedin.com/in/kashyap-p/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/__kashyap__patel__" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 My GitHub Data:
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🗂️ [Contact List API](https://github.com/kashyap-p/Contact_List_Api) — *Live on Render*
+> Production-ready REST API for contact management built with Node.js, Express & MongoDB. Fully Dockerized.
+
+- ✅ Full CRUD with JSON & HTML response support
+- ✅ Dockerized with `docker-compose` for one-command local setup
+- ✅ CSV export endpoint
+- ✅ Search contacts by name or phone number
+- 🔗 **[Live Demo](https://contact-list-api-latest.onrender.com/contacts)**
+
+### ✅ [React Task Management](https://github.com/kashyap-p/React-task-management) — *Live on Render*
+> Clean, responsive task manager built with React and Tailwind CSS featuring priority-based task lanes.
+
+- ✅ Create, edit, delete tasks across priority lanes
+- ✅ Drag-and-drop between priority levels
+- ✅ Color-coded visual lanes for at-a-glance status
+- 🔗 **[Live Demo](https://react-task-management.onrender.com/)**
+
+### 📄 [CSV Upload App](https://github.com/kashyap-p/CSV_UPLOAD)
+> Web application for uploading and parsing CSV files, built with Node.js and Express.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kashyap-p&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-p&" alt="Kashyap" />
+
+![Kashyap's GitHub Stats](https://github-readme-stats.anuraghazra.vercel.app/api?username=kashyap-p&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=kashyap-p&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting! Feel free to reach out — I'm actively looking for new opportunities.*
+
 </div>
