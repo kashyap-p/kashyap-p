@@ -1,100 +1,65 @@
 <div align="center">
 
-# Hi, I'm Kashyap Patel 👋
+# Hi, I'm Kashyap Patel 💻🌐
+### **Full-Stack Developer | Bridging Frontend Creativity & Backend Architecture**
 
-### Full-Stack Developer · MERN Stack · Docker · Node.js
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TS-blue?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-green?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB-orange?style=for-the-badge" alt="Databases" />
+</p>
 
-*Mechanical Engineer turned Full-Stack Developer — I bring systems thinking to every line of code.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-p)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Kashyap_0702)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zenitsu.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zenitsu.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyap-p/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kashyap_0702)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__kashyap__patel__)
+---
+
+### ⚡ "From UI mockups to database indexing, I build end-to-end applications that scale."
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I build efficient, scalable, and user-friendly web applications with a focus on clean architecture and real-world deployment.
-
-- 🔭 Currently building: **[Contact List API](https://github.com/kashyap-p/Contact_List_Api)** — a production-ready Dockerized REST API on MongoDB + Node.js
-- 🚀 Exploring: **System design, TypeScript, and microservices**
-- 🤝 Open to collaborate on: **Full-stack web projects and open-source**
-- 💬 Ask me about: **JavaScript, React, Node.js, REST APIs, Docker, MongoDB**
-- 🌐 Portfolio: **[zenitsu.in](https://zenitsu.in/)**
-- ⚡ Fun fact: I transitioned from Mechanical Engineering to software development — best career move I ever made
+### 🚀 About Me
+I am a passionate **Full-Stack Developer** dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack & Ecosystem
 
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `JavaScript (ES6+)` `TypeScript` `React.js` `Next.js` `HTML5/CSS3` `Tailwind CSS` |
+| **Backend & APIs** | `Node.js` `Express.js` `RESTful APIs` `GraphQL` |
+| **Databases & Caching** | `PostgreSQL` `MongoDB` `MySQL` `Redis` |
+| **DevOps & Tools** | `Git & GitHub` `Docker` `AWS (S3/EC2)` `Vercel` `Postman` |
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗂️ [Contact List API](https://github.com/kashyap-p/Contact_List_Api) — *Live on Render*
-> Production-ready REST API for contact management built with Node.js, Express & MongoDB. Fully Dockerized.
-
-- ✅ Full CRUD with JSON & HTML response support
-- ✅ Dockerized with `docker-compose` for one-command local setup
-- ✅ CSV export endpoint
-- ✅ Search contacts by name or phone number
-- 🔗 **[Live Demo](https://contact-list-api-latest.onrender.com/contacts)**
-
-### ✅ [React Task Management](https://github.com/kashyap-p/React-task-management) — *Live on Render*
-> Clean, responsive task manager built with React and Tailwind CSS featuring priority-based task lanes.
-
-- ✅ Create, edit, delete tasks across priority lanes
-- ✅ Drag-and-drop between priority levels
-- ✅ Color-coded visual lanes for at-a-glance status
-- 🔗 **[Live Demo](https://react-task-management.onrender.com/)**
-
-### 📄 [CSV Upload App](https://github.com/kashyap-p/CSV_UPLOAD)
-> Web application for uploading and parsing CSV files, built with Node.js and Express.
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Insights
 
 <div align="center">
-
-![Kashyap's GitHub Stats](https://github-readme-stats.anuraghazra.vercel.app/api?username=kashyap-p&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=kashyap-p&layout=compact&theme=github_dark&hide_border=true)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kashyap-p&show_icons=true&theme=dark&hide_border=true&count_private=true" width="450px" alt="Kashyap's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-p&layout=compact&theme=dark&hide_border=true" width="380px" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-p&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+### 🤝 Let's Connect!
+* **Looking for:** Full-Time opportunities, freelance projects, or open-source collaborations.
+* **Core Philosophy:** "Write code that is easy to read, easier to test, and built to scale."
+
 <div align="center">
-
-*Thanks for visiting! Feel free to reach out — I'm actively looking for new opportunities.*
-
+  🌟 Drop a star on my repositories if you find my work helpful!
 </div>
