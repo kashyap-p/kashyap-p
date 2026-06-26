@@ -65,9 +65,9 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/static/v1?label=&message=&color=08081a&style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/static/v1?label=&message=&color=08081a&style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-  <a href="mailto:kashyappatel0702@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=&color=08081a&style=flat-square&logo=gmail&logoColor=D14836" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/badge/--0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/--181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:kashyappatel0702@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=kashyap-p&style=flat-square&color=00d2ff&label=Views" alt="Profile Views" />
 </p>
 
