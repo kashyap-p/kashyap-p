@@ -193,13 +193,13 @@
       <br/><br/>
       <a href="https://github.com/kashyap-p/todo-app"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f6d365" alt="Repo" /></a>
     </td>
-    <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
-      <b><span style="color: #f5576c;">🎬 IMDB Clone</span></b><br/>
-      <span style="color: #777788; font-size: 0.9em;">JavaScript · REST API · CSS</span>
+    <td width="50%" style="border: 1px solid #43e97b; border-radius: 14px; padding: 18px 20px; background: #08081a;">
+      <b><span style="color: #43e97b;">🌤️ Weather Tracker</span></b><br/>
+      <span style="color: #777788; font-size: 0.9em;">React · Vite · JavaScript</span>
       <br/>
-      <span style="color: #9999aa; font-size: 0.85em;">Movie database clone with search, ratings, and dynamic content rendering.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Live weather dashboard with glassmorphism UI, powered by Open-Meteo API — no API key required.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/IMDB_CLONE"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f5576c" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/weather-tracker"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=43e97b" alt="Repo" /></a>
     </td>
   </tr>
 </table>
