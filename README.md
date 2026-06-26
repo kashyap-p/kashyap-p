@@ -65,7 +65,12 @@
 </p>
 
 <br/>
-<font color="#555" size="2">────────── connect ──────────</font>
+<svg width="320" height="20" viewBox="0 0 320 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="10" x2="135" y2="10" stroke="#333" stroke-width="0.5"/>
+  <circle cx="155" cy="10" r="1.5" fill="#555"/>
+  <text x="160" y="14" fill="#666" font-family="system-ui,-apple-system,sans-serif" font-size="9" font-weight="600" text-anchor="start" letter-spacing="3">CONNECT</text>
+  <line x1="225" y1="10" x2="320" y2="10" stroke="#333" stroke-width="0.5"/>
+</svg>
 <br/><br/>
 
 <p>
