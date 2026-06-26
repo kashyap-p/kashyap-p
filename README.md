@@ -97,18 +97,30 @@
 
 <br/>
 
-<div style="display: inline-block; border: 1px solid #00d2ff; border-radius: 20px; padding: 22px 26px; background: #0a0a1a; max-width: 700px; text-align: left;">
-
-<span style="color: #c0c0d0; font-size: 0.95em;">
-  I am a passionate <b style="color: #00d2ff;">Full-Stack Developer</b> dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
-</span>
-<br/><br/>
-<span style="color: #f5576c;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
-<span style="color: #43e97b;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
-<span style="color: #f6d365;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
-<span style="color: #a18cd1;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
-
-</div>
+<svg width="700" height="205" viewBox="0 0 700 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="698" height="203" rx="20" fill="#0a0a1a" stroke="#00d2ff" stroke-width="1.5"/>
+  <text x="25" y="30" fill="#c0c0d0" font-family="system-ui,-apple-system,sans-serif" font-size="13">
+    <tspan x="25" dy="0">I am a passionate <tspan fill="#00d2ff" font-weight="bold">Full-Stack Developer</tspan> dedicated to building</tspan>
+    <tspan x="25" dy="20">seamless digital experiences. With a strong analytical foundation from</tspan>
+    <tspan x="25" dy="20">my engineering background, I love breaking down complex problems into</tspan>
+    <tspan x="25" dy="20">clean, scalable code. Whether it's crafting intuitive user interfaces</tspan>
+    <tspan x="25" dy="20">or designing robust APIs, I thrive on bringing ideas to life across</tspan>
+    <tspan x="25" dy="20">the entire tech stack.</tspan>
+  </text>
+  <line x1="25" y1="140" x2="675" y2="140" stroke="#333" stroke-width="0.5"/>
+  <text x="25" y="163" fill="#8888aa" font-family="system-ui,-apple-system,sans-serif" font-size="13">
+    <tspan fill="#f5576c">🔭</tspan> Building: <tspan fill="#e0e0f0">3D Portfolio (React Three Fiber)</tspan>
+  </text>
+  <text x="25" y="185" fill="#8888aa" font-family="system-ui,-apple-system,sans-serif" font-size="13">
+    <tspan fill="#43e97b">🌱</tspan> Exploring: <tspan fill="#e0e0f0">System Design &amp; Cloud Architecture</tspan>
+  </text>
+  <text x="370" y="163" fill="#8888aa" font-family="system-ui,-apple-system,sans-serif" font-size="13">
+    <tspan fill="#f6d365">💬</tspan> Ask me about: <tspan fill="#e0e0f0">React, Node.js, MongoDB</tspan>
+  </text>
+  <text x="370" y="185" fill="#8888aa" font-family="system-ui,-apple-system,sans-serif" font-size="13">
+    <tspan fill="#a18cd1">⚡</tspan> Fun fact: <tspan fill="#e0e0f0">I debug with console.log &amp; optimism</tspan>
+  </text>
+</svg>
 
 </div>
 
@@ -271,9 +283,10 @@
 
 <br/>
 
-<span style="display: inline-block; padding: 10px 30px; border-radius: 30px; background: #08081a; border: 1px solid #00d2ff;">
-  ⭐ Drop a star on my repositories if you find my work helpful!
-</span>
+<svg width="460" height="44" viewBox="0 0 460 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="458" height="42" rx="21" fill="#08081a" stroke="#00d2ff" stroke-width="1.5"/>
+  <text x="230" y="27" fill="#c0c0d0" font-family="system-ui,-apple-system,sans-serif" font-size="14" text-anchor="middle">⭐ Drop a star on my repositories if you find my work helpful!</text>
+</svg>
 
 </div>
 
