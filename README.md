@@ -65,10 +65,10 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="LinkedIn" /></a>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a" alt="GitHub" /></a>
-  <a href="mailto:kashyappatel0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kashyap-p&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS&labelColor=0a0a1a" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=08081a" alt="LinkedIn" /></a>
+  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=08081a" alt="GitHub" /></a>
+  <a href="mailto:kashyappatel0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=08081a" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kashyap-p&style=flat-square&color=00d2ff&label=Views" alt="Profile Views" />
 </p>
 
 </div>
