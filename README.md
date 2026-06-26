@@ -64,6 +64,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux&theme=dark&perline=14" alt="DevOps Skills" />
 </p>
 
+<br/>
+<font color="#555" size="2">────────── connect ──────────</font>
+<br/><br/>
+
 <p>
   <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   <a href="https://github.com/kashyap-p"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
