@@ -55,10 +55,13 @@
 <br/><br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-00d2ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a1a" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-43e97b?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a1a" alt="Backend" />
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-f6d365?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a1a" alt="Databases" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20Vercel-f5576c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a1a" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark&perline=14" alt="Frontend Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,graphql&theme=dark&perline=14" alt="Backend Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark&perline=14" alt="Database Skills" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,linux&theme=dark&perline=14" alt="DevOps Skills" />
 </p>
 
 <p>
