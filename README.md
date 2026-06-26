@@ -4,7 +4,6 @@
 
 <br/>
 
-<!-- Animated Logo - Rotating Geometric Design -->
 <svg viewBox="0 0 200 140" width="200" height="140" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -20,27 +19,22 @@
       <stop offset="100%" stop-color="#f5576c" stop-opacity="0.3"/>
     </linearGradient>
   </defs>
-  <!-- Outer rotating hexagon -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 100 70" to="360 100 70" dur="12s" repeatCount="indefinite"/>
     <polygon points="100,20 145,48 145,102 100,130 55,102 55,48" fill="url(#g1)" stroke="#00d2ff" stroke-width="1.5" opacity="0.7"/>
   </g>
-  <!-- Middle counter-rotating octagon -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="360 100 70" to="0 100 70" dur="10s" repeatCount="indefinite"/>
     <polygon points="100,35 128,50 140,76 128,102 100,115 72,102 60,76 72,50" fill="url(#g3)" stroke="#f6d365" stroke-width="1" opacity="0.6"/>
   </g>
-  <!-- Inner rotating triangle -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="0 100 70" to="360 100 70" dur="6s" repeatCount="indefinite"/>
     <polygon points="100,50 125,90 75,90" fill="url(#g2)" stroke="#43e97b" stroke-width="1" opacity="0.8"/>
   </g>
-  <!-- Center pulsing circle -->
   <circle cx="100" cy="70" r="7" fill="#00d2ff">
     <animate attributeName="r" values="7;12;7" dur="2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <!-- Orbiting particles -->
   <circle r="2.5" fill="#f5576c">
     <animateMotion dur="5s" repeatCount="indefinite" path="M100,70 m-45,0 a45,45 0 1,1 90,0 a45,45 0 1,1 -90,0"/>
   </circle>
@@ -60,15 +54,13 @@
 
 <br/><br/>
 
-<!-- Tech Stack Badges -->
 <p>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-00d2ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a1a" alt="Frontend" /></a>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-43e97b?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a1a" alt="Backend" /></a>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-f6d365?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a1a" alt="Databases" /></a>
-  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20Vercel-f5576c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a1a" alt="DevOps" /></a>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-00d2ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a1a" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python-43e97b?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a1a" alt="Backend" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20MongoDB%20%7C%20Redis-f6d365?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0a1a" alt="Databases" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20Vercel-f5576c?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a1a" alt="DevOps" />
 </p>
 
-<!-- Social Links -->
 <p>
   <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Kashyap_0702"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a1a" alt="X (Twitter)" /></a>
@@ -88,7 +80,6 @@
 
 <br/>
 
-<!-- About Me -->
 <div align="center">
 
 ## <span style="color: #f093fb;">🚀 About Me</span>
@@ -97,18 +88,36 @@
 
 <table>
   <tr>
-    <td width="58%" style="border: 1px solid #00d2ff44; border-radius: 20px; padding: 22px 26px; background: linear-gradient(135deg, #0a0a1a, #1a1a2e); box-shadow: 0 8px 32px rgba(0,210,255,0.12);">
+    <td width="58%" style="border: 1px solid #00d2ff; border-radius: 20px; padding: 22px 26px; background: #0a0a1a;">
       <span style="color: #c0c0d0; font-size: 0.95em;">
         I am a passionate <b style="color: #00d2ff;">Full-Stack Developer</b> dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
       </span>
       <br/><br/>
-      <span style="color: #f5576c; font-size: 0.95em;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
-      <span style="color: #43e97b; font-size: 0.95em;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
-      <span style="color: #f6d365; font-size: 0.95em;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
-      <span style="color: #a18cd1; font-size: 0.95em;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
+      <span style="color: #f5576c;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
+      <span style="color: #43e97b;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
+      <span style="color: #f6d365;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
+      <span style="color: #a18cd1;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
     </td>
-    <td width="42%" style="border: none; text-align: center; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/kashyap-p/kashyap-p/main/terminal-demo.svg" alt="Terminal" width="220" height="180" />
+    <td width="42%" style="text-align: center; vertical-align: middle;">
+      <svg viewBox="0 0 220 180" width="220" height="180" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0a0a1a" stop-opacity="0.95"/>
+            <stop offset="100%" stop-color="#1a1a2e" stop-opacity="0.95"/>
+          </linearGradient>
+        </defs>
+        <rect x="10" y="15" width="200" height="145" rx="10" fill="url(#tg)" stroke="#00d2ff" stroke-width="1.2" opacity="0.8"/>
+        <rect x="10" y="15" width="200" height="28" rx="10" fill="#00d2ff" opacity="0.08"/>
+        <circle cx="28" cy="29" r="4.5" fill="#f5576c" opacity="0.9"/>
+        <circle cx="44" cy="29" r="4.5" fill="#f6d365" opacity="0.9"/>
+        <circle cx="60" cy="29" r="4.5" fill="#43e97b" opacity="0.9"/>
+        <text x="110" y="33" fill="#00d2ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.5">kashyap-p / terminal</text>
+        <text x="20" y="60" fill="#43e97b" font-size="11" font-family="monospace">$ npm run dev</text>
+        <text x="20" y="78" fill="#00d2ff" font-size="11" font-family="monospace" opacity="0.7">&gt; dev@1.0.0 dev</text>
+        <text x="20" y="96" fill="#b0b0c0" font-size="11" font-family="monospace">Ready on http://localhost:3000</text>
+        <text x="20" y="114" fill="#f6d365" font-size="11" font-family="monospace">✓ Compiled successfully</text>
+        <rect x="20" y="124" width="8" height="13" fill="#f5576c" opacity="0.8"/>
+      </svg>
     </td>
   </tr>
 </table>
@@ -117,32 +126,31 @@
 
 <br/>
 
-<!-- Tech Stack -->
 <div align="center">
 
 ## <span style="color: #43e97b;">🛠️ Tech Stack &amp; Ecosystem</span>
 
 <br/>
 
-<table style="border: none; background: transparent; max-width: 780px; margin: 0 auto;">
+<table>
   <tr>
-    <td width="50%" style="border: 1px solid #00d2ff33; border-radius: 14px; padding: 16px 20px; background: #00d2ff08; box-shadow: 0 4px 20px #00d2ff0d;">
+    <td width="50%" style="border: 1px solid #00d2ff; border-radius: 14px; padding: 16px 20px; background: #08081a;">
       <b><span style="color: #00d2ff;">🖥️ Frontend</span></b><br/>
-      <span style="color: #b0b0c0;">JavaScript (ES6+) · TypeScript · React.js · Next.js · HTML5/CSS3 · Tailwind CSS · Redux</span>
+      <span style="color: #9999aa;">JavaScript (ES6+) · TypeScript · React.js · Next.js · HTML5/CSS3 · Tailwind CSS · Redux</span>
     </td>
-    <td width="50%" style="border: 1px solid #43e97b33; border-radius: 14px; padding: 16px 20px; background: #43e97b08; box-shadow: 0 4px 20px #43e97b0d;">
+    <td width="50%" style="border: 1px solid #43e97b; border-radius: 14px; padding: 16px 20px; background: #08081a;">
       <b><span style="color: #43e97b;">⚙️ Backend &amp; APIs</span></b><br/>
-      <span style="color: #b0b0c0;">Node.js · Express.js · RESTful APIs · GraphQL · Python · Flask</span>
+      <span style="color: #9999aa;">Node.js · Express.js · RESTful APIs · GraphQL · Python · Flask</span>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border: 1px solid #f6d36533; border-radius: 14px; padding: 16px 20px; background: #f6d36508; box-shadow: 0 4px 20px #f6d3650d;">
+    <td width="50%" style="border: 1px solid #f6d365; border-radius: 14px; padding: 16px 20px; background: #08081a;">
       <b><span style="color: #f6d365;">🗄️ Databases &amp; Caching</span></b><br/>
-      <span style="color: #b0b0c0;">PostgreSQL · MongoDB · MySQL · Redis · Prisma</span>
+      <span style="color: #9999aa;">PostgreSQL · MongoDB · MySQL · Redis · Prisma</span>
     </td>
-    <td width="50%" style="border: 1px solid #f5576c33; border-radius: 14px; padding: 16px 20px; background: #f5576c08; box-shadow: 0 4px 20px #f5576c0d;">
+    <td width="50%" style="border: 1px solid #f5576c; border-radius: 14px; padding: 16px 20px; background: #08081a;">
       <b><span style="color: #f5576c;">☁️ DevOps &amp; Tools</span></b><br/>
-      <span style="color: #b0b0c0;">Git &amp; GitHub · Docker · AWS (S3/EC2) · Vercel · Postman · Linux</span>
+      <span style="color: #9999aa;">Git &amp; GitHub · Docker · AWS (S3/EC2) · Vercel · Postman · Linux</span>
     </td>
   </tr>
 </table>
@@ -151,48 +159,47 @@
 
 <br/>
 
-<!-- Featured Projects -->
 <div align="center">
 
 ## <span style="color: #f5576c;">📌 Featured Projects</span>
 
 <br/>
 
-<table style="border: none; background: transparent; max-width: 780px; margin: 0 auto;">
+<table>
   <tr>
-    <td width="50%" style="border: 1px solid #a18cd133; border-radius: 14px; padding: 18px 20px; background: #0a0a1a0d; box-shadow: 0 4px 20px #a18cd10d;">
+    <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
       <b><span style="color: #00d2ff;">🎨 Portfolio (3D)</span></b><br/>
-      <span style="color: #888; font-size: 0.9em;">React 18 · Three.js · React Three Fiber · Vite</span>
+      <span style="color: #777788; font-size: 0.9em;">React 18 · Three.js · React Three Fiber · Vite</span>
       <br/>
-      <span style="color: #b0b0c0; font-size: 0.85em;">Immersive 3D portfolio experience with interactive scenes and smooth animations.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Immersive 3D portfolio experience with interactive scenes and smooth animations.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/portfolioNEW"><img src="https://img.shields.io/badge/View_Repo-0a0a1a?style=flat-square&logo=github&logoColor=00d2ff" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/portfolioNEW"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=00d2ff" alt="Repo" /></a>
     </td>
-    <td width="50%" style="border: 1px solid #a18cd133; border-radius: 14px; padding: 18px 20px; background: #0a0a1a0d; box-shadow: 0 4px 20px #a18cd10d;">
+    <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
       <b><span style="color: #43e97b;">🏕️ Wanderlust</span></b><br/>
-      <span style="color: #888; font-size: 0.9em;">Node.js · Express.js · MongoDB · EJS</span>
+      <span style="color: #777788; font-size: 0.9em;">Node.js · Express.js · MongoDB · EJS</span>
       <br/>
-      <span style="color: #b0b0c0; font-size: 0.85em;">Full-stack travel listing platform with user authentication, reviews, and map integration.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Full-stack travel listing platform with user authentication, reviews, and map integration.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/Wanderlust---Nodejs-Project"><img src="https://img.shields.io/badge/View_Repo-0a0a1a?style=flat-square&logo=github&logoColor=43e97b" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/Wanderlust---Nodejs-Project"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=43e97b" alt="Repo" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" style="border: 1px solid #a18cd133; border-radius: 14px; padding: 18px 20px; background: #0a0a1a0d; box-shadow: 0 4px 20px #a18cd10d;">
+    <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
       <b><span style="color: #f6d365;">✅ Task Manager</span></b><br/>
-      <span style="color: #888; font-size: 0.9em;">React · JavaScript · CSS</span>
+      <span style="color: #777788; font-size: 0.9em;">React · JavaScript · CSS</span>
       <br/>
-      <span style="color: #b0b0c0; font-size: 0.85em;">Priority-based task management app with drag-and-drop and local persistence.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Priority-based task management app with drag-and-drop and local persistence.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/React-task-management"><img src="https://img.shields.io/badge/View_Repo-0a0a1a?style=flat-square&logo=github&logoColor=f6d365" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/React-task-management"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f6d365" alt="Repo" /></a>
     </td>
-    <td width="50%" style="border: 1px solid #a18cd133; border-radius: 14px; padding: 18px 20px; background: #0a0a1a0d; box-shadow: 0 4px 20px #a18cd10d;">
+    <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
       <b><span style="color: #f5576c;">🎬 IMDB Clone</span></b><br/>
-      <span style="color: #888; font-size: 0.9em;">JavaScript · REST API · CSS</span>
+      <span style="color: #777788; font-size: 0.9em;">JavaScript · REST API · CSS</span>
       <br/>
-      <span style="color: #b0b0c0; font-size: 0.85em;">Movie database clone with search, ratings, and dynamic content rendering.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Movie database clone with search, ratings, and dynamic content rendering.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/IMDB_CLONE"><img src="https://img.shields.io/badge/View_Repo-0a0a1a?style=flat-square&logo=github&logoColor=f5576c" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/IMDB_CLONE"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f5576c" alt="Repo" /></a>
     </td>
   </tr>
 </table>
@@ -201,77 +208,45 @@
 
 <br/>
 
-<!-- Stats Section -->
 <div align="center">
 
 ## <span style="color: #f6d365;">📊 GitHub Activity &amp; Insights</span>
 
 <br/>
 
-<table style="border: none; background: transparent; max-width: 820px; margin: 0 auto;">
+<table>
   <tr>
-    <td style="border: 1px solid rgba(0, 210, 255, 0.15); border-radius: 16px; padding: 16px 20px; background: linear-gradient(145deg, rgba(0, 210, 255, 0.04), rgba(10, 10, 26, 0.4)); box-shadow: 0 8px 24px rgba(0, 210, 255, 0.08);">
-      <img src="https://github-readme-stats.vercel.app/api?username=kashyap-p&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0a0a1a&title_color=00d2ff&icon_color=f5576c&text_color=ffffff" alt="GitHub Stats" />
+    <td style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=kashyap-p&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=08081a&title_color=00d2ff&icon_color=f5576c&text_color=ffffff" alt="GitHub Stats" />
     </td>
-    <td style="border: 1px solid rgba(67, 233, 123, 0.15); border-radius: 16px; padding: 16px 20px; background: linear-gradient(145deg, rgba(67, 233, 123, 0.04), rgba(10, 10, 26, 0.4)); box-shadow: 0 8px 24px rgba(67, 233, 123, 0.08);">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-p&layout=compact&theme=dark&hide_border=true&bg_color=0a0a1a&title_color=43e97b&text_color=ffffff" alt="Top Languages" />
+    <td style="padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap-p&layout=compact&theme=dark&hide_border=true&bg_color=08081a&title_color=43e97b&text_color=ffffff" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-p&theme=dark&hide_border=true&background=08081a&stroke=00d2ff&ring=f5576c&fire=f6d365&currStreakLabel=43e97b" alt="GitHub Streak" />
 
 <br/>
 
-<!-- Streak in a styled card -->
-<table style="border: none; background: transparent; max-width: 820px; margin: 0 auto;">
-  <tr>
-    <td style="border: 1px solid rgba(246, 211, 101, 0.15); border-radius: 16px; padding: 12px; background: linear-gradient(145deg, rgba(246, 211, 101, 0.04), rgba(10, 10, 26, 0.4)); box-shadow: 0 8px 24px rgba(246, 211, 101, 0.08);">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap-p&theme=dark&hide_border=true&background=0a0a1a&stroke=00d2ff&ring=f5576c&fire=f6d365&currStreakLabel=43e97b" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyap-p&bg_color=08081a&color=00d2ff&line=43e97b&point=f5576c&area=true&hide_border=true&radius=8&title_color=f6d365" width="95%" alt="Contribution Graph" />
 
 <br/>
 
-<!-- Contribution Graph in a styled card -->
-<table style="border: none; background: transparent; max-width: 820px; margin: 0 auto;">
-  <tr>
-    <td style="border: 1px solid rgba(161, 140, 209, 0.15); border-radius: 16px; padding: 16px; background: linear-gradient(145deg, rgba(161, 140, 209, 0.04), rgba(10, 10, 26, 0.4)); box-shadow: 0 8px 24px rgba(161, 140, 209, 0.08);">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashyap-p&bg_color=0a0a1a&color=00d2ff&line=43e97b&point=f5576c&area=true&hide_border=true&radius=8&title_color=f6d365" width="100%" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashyap-p/kashyap-p/master/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashyap-p/kashyap-p/master/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kashyap-p/kashyap-p/master/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%" />
+</picture>
 
 <br/>
 
-<!-- Contribution Snake Animation -->
-<table style="border: none; background: transparent; max-width: 820px; margin: 0 auto;">
-  <tr>
-    <td style="border: 1px solid rgba(0, 210, 255, 0.12); border-radius: 16px; padding: 16px; background: linear-gradient(145deg, rgba(0, 210, 255, 0.03), rgba(10, 10, 26, 0.3)); box-shadow: 0 8px 24px rgba(0, 210, 255, 0.06);">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashyap-p/kashyap-p/main/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashyap-p/kashyap-p/main/github-contribution-grid-snake.svg" />
-        <img src="https://raw.githubusercontent.com/kashyap-p/kashyap-p/main/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- GitHub Trophies -->
-<table style="border: none; background: transparent; max-width: 820px; margin: 0 auto;">
-  <tr>
-    <td style="border: 1px solid rgba(67, 233, 123, 0.12); border-radius: 16px; padding: 16px; background: linear-gradient(145deg, rgba(67, 233, 123, 0.03), rgba(10, 10, 26, 0.3)); box-shadow: 0 8px 24px rgba(67, 233, 123, 0.06);">
-      <img src="https://github-profile-trophy.vercel.app/?username=kashyap-p&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=kashyap-p&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 
-<!-- Animated Wave Divider -->
 <svg viewBox="0 0 800 45" width="100%" height="45" style="display: block; margin: 10px auto;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -291,16 +266,15 @@
   </path>
 </svg>
 
-<!-- Connect Section -->
 <div align="center">
 
 ## <span style="color: #a18cd1;">🤝 Let's Connect!</span>
 
 <br/>
 
-<table style="border: none; max-width: 650px;">
+<table>
   <tr>
-    <td style="border: 1px solid #a18cd133; border-radius: 16px; padding: 20px 30px; background: #0a0a1a0d; box-shadow: 0 8px 24px #a18cd11a;">
+    <td style="border: 1px solid #a18cd1; border-radius: 16px; padding: 20px 30px; background: #08081a;">
       <b>🔍 Looking for:</b> Full-Time opportunities, freelance projects, or open-source collaborations.<br/><br/>
       <b>📖 Core Philosophy:</b> &ldquo;Write code that is easy to read, easier to test, and built to scale.&rdquo;
     </td>
@@ -309,7 +283,7 @@
 
 <br/>
 
-<span style="display: inline-block; padding: 10px 30px; border-radius: 30px; background: #00d2ff0d; border: 1px solid #00d2ff33;">
+<span style="display: inline-block; padding: 10px 30px; border-radius: 30px; background: #08081a; border: 1px solid #00d2ff;">
   ⭐ Drop a star on my repositories if you find my work helpful!
 </span>
 
@@ -317,7 +291,6 @@
 
 <br/>
 
-<!-- Footer with Floating Particles -->
 <svg viewBox="0 0 800 25" width="100%" height="25" style="display: block;" xmlns="http://www.w3.org/2000/svg">
   <circle cx="100" cy="10" r="1.5" fill="#00d2ff" opacity="0.4">
     <animate attributeName="cx" from="-30" to="830" dur="14s" repeatCount="indefinite"/>
@@ -337,4 +310,3 @@
 </svg>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=footer&fontSize=0" width="100%" alt="Footer" />
-
