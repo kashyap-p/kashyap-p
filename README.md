@@ -218,7 +218,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kashyap-p&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Dev Quote" />
 
 </div>
 
