@@ -153,22 +153,22 @@
       <a href="https://github.com/kashyap-p/portfolioNEW"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=00d2ff" alt="Repo" /></a>
     </td>
     <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
-      <b><span style="color: #43e97b;">🏕️ Wanderlust</span></b><br/>
-      <span style="color: #777788; font-size: 0.9em;">Node.js · Express.js · MongoDB · EJS</span>
+      <b><span style="color: #43e97b;">📰 Tech News</span></b><br/>
+      <span style="color: #777788; font-size: 0.9em;">HTML · CSS · JavaScript</span>
       <br/>
-      <span style="color: #9999aa; font-size: 0.85em;">Full-stack travel listing platform with user authentication, reviews, and map integration.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Static tech news demo site with curated articles, responsive layout, and dynamic content filtering.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/Wanderlust---Nodejs-Project"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=43e97b" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/tech-news"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=43e97b" alt="Repo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
-      <b><span style="color: #f6d365;">✅ Task Manager</span></b><br/>
-      <span style="color: #777788; font-size: 0.9em;">React · JavaScript · CSS</span>
+      <b><span style="color: #f6d365;">✅ Todo App</span></b><br/>
+      <span style="color: #777788; font-size: 0.9em;">HTML · CSS · JavaScript · localStorage</span>
       <br/>
-      <span style="color: #9999aa; font-size: 0.85em;">Priority-based task management app with drag-and-drop and local persistence.</span>
+      <span style="color: #9999aa; font-size: 0.85em;">Client-side todo list with add/delete/filter tasks, localStorage persistence, and responsive UI.</span>
       <br/><br/>
-      <a href="https://github.com/kashyap-p/React-task-management"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f6d365" alt="Repo" /></a>
+      <a href="https://github.com/kashyap-p/todo-app"><img src="https://img.shields.io/badge/View_Repo-08081a?style=flat-square&logo=github&logoColor=f6d365" alt="Repo" /></a>
     </td>
     <td width="50%" style="border: 1px solid #a18cd1; border-radius: 14px; padding: 18px 20px; background: #08081a;">
       <b><span style="color: #f5576c;">🎬 IMDB Clone</span></b><br/>
