@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   <a href="https://github.com/kashyap-p"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
   <a href="mailto:kashyappatel0702@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kashyap-p&style=for-the-badge&color=00d2ff&label=Views" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/kashyap-p.svg?style=for-the-badge&label=Views&color=00d2ff&labelColor=08081a" alt="Profile Views" />
 </p>
 
 </div>
