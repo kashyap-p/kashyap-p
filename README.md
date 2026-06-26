@@ -63,7 +63,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/kashyap-p"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a1a" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Kashyap_0702"><img src="https://img.shields.io/badge/X%20(Twitter)-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a1a" alt="X (Twitter)" /></a>
+  <a href="https://github.com/kashyap-p"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a1a" alt="GitHub" /></a>
   <a href="mailto:kashyappatel0702@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a1a" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=kashyap-p&style=for-the-badge&color=00d2ff&label=PROFILE+VIEWS&labelColor=0a0a1a" alt="Profile Views" />
 </p>
@@ -86,41 +86,18 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="58%" style="border: 1px solid #00d2ff; border-radius: 20px; padding: 22px 26px; background: #0a0a1a;">
-      <span style="color: #c0c0d0; font-size: 0.95em;">
-        I am a passionate <b style="color: #00d2ff;">Full-Stack Developer</b> dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
-      </span>
-      <br/><br/>
-      <span style="color: #f5576c;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
-      <span style="color: #43e97b;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
-      <span style="color: #f6d365;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
-      <span style="color: #a18cd1;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
-    </td>
-    <td width="42%" style="text-align: center; vertical-align: middle;">
-      <svg viewBox="0 0 220 180" width="220" height="180" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#0a0a1a" stop-opacity="0.95"/>
-            <stop offset="100%" stop-color="#1a1a2e" stop-opacity="0.95"/>
-          </linearGradient>
-        </defs>
-        <rect x="10" y="15" width="200" height="145" rx="10" fill="url(#tg)" stroke="#00d2ff" stroke-width="1.2" opacity="0.8"/>
-        <rect x="10" y="15" width="200" height="28" rx="10" fill="#00d2ff" opacity="0.08"/>
-        <circle cx="28" cy="29" r="4.5" fill="#f5576c" opacity="0.9"/>
-        <circle cx="44" cy="29" r="4.5" fill="#f6d365" opacity="0.9"/>
-        <circle cx="60" cy="29" r="4.5" fill="#43e97b" opacity="0.9"/>
-        <text x="110" y="33" fill="#00d2ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.5">kashyap-p / terminal</text>
-        <text x="20" y="60" fill="#43e97b" font-size="11" font-family="monospace">$ npm run dev</text>
-        <text x="20" y="78" fill="#00d2ff" font-size="11" font-family="monospace" opacity="0.7">&gt; dev@1.0.0 dev</text>
-        <text x="20" y="96" fill="#b0b0c0" font-size="11" font-family="monospace">Ready on http://localhost:3000</text>
-        <text x="20" y="114" fill="#f6d365" font-size="11" font-family="monospace">✓ Compiled successfully</text>
-        <rect x="20" y="124" width="8" height="13" fill="#f5576c" opacity="0.8"/>
-      </svg>
-    </td>
-  </tr>
-</table>
+<div style="display: inline-block; border: 1px solid #00d2ff; border-radius: 20px; padding: 22px 26px; background: #0a0a1a; max-width: 700px; text-align: left;">
+
+<span style="color: #c0c0d0; font-size: 0.95em;">
+  I am a passionate <b style="color: #00d2ff;">Full-Stack Developer</b> dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
+</span>
+<br/><br/>
+<span style="color: #f5576c;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
+<span style="color: #43e97b;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
+<span style="color: #f6d365;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
+<span style="color: #a18cd1;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
+
+</div>
 
 </div>
 
