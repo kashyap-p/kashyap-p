@@ -95,78 +95,20 @@
 
 <br/>
 
-<table style="border: none; background: transparent; max-width: 800px; margin: 0 auto;">
+<table>
   <tr>
-    <td width="58%" style="border: 2px solid rgba(0, 210, 255, 0.15); border-radius: 20px; padding: 24px 28px; background: linear-gradient(135deg, rgba(0, 210, 255, 0.05), rgba(245, 87, 108, 0.05)); box-shadow: 0 8px 32px rgba(0, 210, 255, 0.1), 0 0 60px rgba(245, 87, 108, 0.05); backdrop-filter: blur(4px);">
-      <span style="color: #c0c0d0; font-size: 0.95em; line-height: 1.7;">
+    <td width="58%" style="border: 1px solid #00d2ff44; border-radius: 20px; padding: 22px 26px; background: linear-gradient(135deg, #0a0a1a, #1a1a2e); box-shadow: 0 8px 32px rgba(0,210,255,0.12);">
+      <span style="color: #c0c0d0; font-size: 0.95em;">
         I am a passionate <b style="color: #00d2ff;">Full-Stack Developer</b> dedicated to building seamless digital experiences. With a strong analytical foundation from my engineering background, I love breaking down complex problems into clean, scalable code. Whether it's crafting intuitive user interfaces or designing robust APIs, I thrive on bringing ideas to life across the entire tech stack.
       </span>
       <br/><br/>
-      <table style="border: none; background: transparent; width: 100%;">
-        <tr>
-          <td style="border: none; padding: 6px 0;"><span style="color: #f5576c;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span></td>
-        </tr>
-        <tr>
-          <td style="border: none; padding: 6px 0;"><span style="color: #43e97b;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span></td>
-        </tr>
-        <tr>
-          <td style="border: none; padding: 6px 0;"><span style="color: #f6d365;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span></td>
-        </tr>
-        <tr>
-          <td style="border: none; padding: 6px 0;"><span style="color: #a18cd1;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span></td>
-        </tr>
-      </table>
+      <span style="color: #f5576c; font-size: 0.95em;">🔭</span> <span style="color: #8888aa; font-size: 0.9em;">Building:</span> <span style="color: #e0e0f0; font-size: 0.9em;">3D Portfolio (React Three Fiber)</span><br/>
+      <span style="color: #43e97b; font-size: 0.95em;">🌱</span> <span style="color: #8888aa; font-size: 0.9em;">Exploring:</span> <span style="color: #e0e0f0; font-size: 0.9em;">System Design &amp; Cloud Architecture</span><br/>
+      <span style="color: #f6d365; font-size: 0.95em;">💬</span> <span style="color: #8888aa; font-size: 0.9em;">Ask me about:</span> <span style="color: #e0e0f0; font-size: 0.9em;">React, Node.js, MongoDB, scaling web apps</span><br/>
+      <span style="color: #a18cd1; font-size: 0.95em;">⚡</span> <span style="color: #8888aa; font-size: 0.9em;">Fun fact:</span> <span style="color: #e0e0f0; font-size: 0.9em;">I debug with console.log &amp; optimism</span>
     </td>
     <td width="42%" style="border: none; text-align: center; vertical-align: middle;">
-      <!-- Animated Terminal SVG -->
-      <svg viewBox="0 0 220 180" width="220" height="180" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="termGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-            <stop offset="0%" stop-color="#0a0a1a" stop-opacity="0.9"/>
-            <stop offset="100%" stop-color="#1a1a2e" stop-opacity="0.9"/>
-          </linearGradient>
-        </defs>
-        <!-- Terminal Window -->
-        <rect x="10" y="15" width="200" height="145" rx="10" fill="url(#termGrad)" stroke="#00d2ff" stroke-width="1.2" opacity="0.8"/>
-        <!-- Title Bar -->
-        <rect x="10" y="15" width="200" height="28" rx="10" fill="#00d2ff" opacity="0.1"/>
-        <rect x="10" y="33" width="200" height="10" fill="#00d2ff" opacity="0.05"/>
-        <!-- Window Controls -->
-        <circle cx="28" cy="29" r="5" fill="#f5576c" opacity="0.8">
-          <animate attributeName="opacity" values="0.8;0.4;0.8" dur="3s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="44" cy="29" r="5" fill="#f6d365" opacity="0.8"/>
-        <circle cx="60" cy="29" r="5" fill="#43e97b" opacity="0.8"/>
-        <!-- Terminal Title -->
-        <text x="110" y="33" fill="#00d2ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.6">kashyap-p / terminal</text>
-        <!-- Line 1 - typing effect -->
-        <text x="20" y="60" fill="#43e97b" font-size="11" font-family="monospace">$ npm run dev</text>
-        <!-- Line 2 - appears with delay -->
-        <text x="20" y="78" fill="#00d2ff" font-size="11" font-family="monospace" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite" keyTimes="0;0.3;0.35;1"/>
-          &gt; dev@1.0.0 dev
-        </text>
-        <!-- Line 3 - animated cursor -->
-        <text x="20" y="96" fill="#b0b0c0" font-size="11" font-family="monospace" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite" keyTimes="0;0.5;0.55;1"/>
-          <animate attributeName="x" values="20;130;20" dur="4s" repeatCount="indefinite"/>
-          Ready on http://localhost:3000
-        </text>
-        <!-- Line 4 -->
-        <text x="20" y="114" fill="#f6d365" font-size="11" font-family="monospace" opacity="0">
-          <animate attributeName="opacity" values="0;0;1;1" dur="6s" repeatCount="indefinite" keyTimes="0;0.7;0.75;1"/>
-          ✓ Compiled successfully
-        </text>
-        <!-- Blinking cursor -->
-        <rect x="20" y="124" width="8" height="14" fill="#f5576c" opacity="0">
-          <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="6s" repeatCount="indefinite" keyTimes="0;0.7;0.75;0.8;0.82;0.9;0.92;1"/>
-        </rect>
-        <!-- Glowing scan line -->
-        <line x1="10" y1="130" x2="210" y2="130" stroke="#00d2ff" stroke-width="0.5" opacity="0.15">
-          <animate attributeName="y1" values="45;160;45" dur="4s" repeatCount="indefinite"/>
-          <animate attributeName="y2" values="45;160;45" dur="4s" repeatCount="indefinite"/>
-        </line>
-      </svg>
+      <img src="https://raw.githubusercontent.com/kashyap-p/kashyap-p/main/terminal-demo.svg" alt="Terminal" width="220" height="180" />
     </td>
   </tr>
 </table>

@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -24,8 +27,12 @@ jobs:
 
       - name: Commit & push generated files
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update contribution snake animation"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update contribution snake animation"
+            git push
+          fi
