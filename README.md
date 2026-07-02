@@ -12,7 +12,7 @@
 </a>
 
 <!-- ━━━━ STATUS BADGES ━━━━ -->
-<a href="https://github.com/kashyap-p" target="_blank"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=0D1117" alt="Status" /></a><img src="https://img.shields.io/badge/CURRENTLY-Building_3D_Portfolio-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Currently" /><img src="https://img.shields.io/badge/RESPONSE-Within_24h-EC4899?style=for-the-badge&labelColor=0D1117" alt="Response" /><img src="https://img.shields.io/badge/FOCUS-End--to--End_Apps-06B6D4?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+<a href="https://github.com/kashyap-p" target="_blank"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=0D1117" alt="Status" /></a><img src="https://img.shields.io/badge/CURRENTLY-Building_ClaimSight-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Currently" /><img src="https://img.shields.io/badge/RESPONSE-Within_24h-EC4899?style=for-the-badge&labelColor=0D1117" alt="Response" /><img src="https://img.shields.io/badge/FOCUS-End--to--End_Apps-06B6D4?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 **Full-Stack Developer** with an engineering backbone. I apply structural logic and system optimization to build robust, end-to-end web applications — from pixel-perfect UI down to database indexing.
 
-- 🔭 **Currently Building:** 3D Portfolio with React Three Fiber
+- 🔭 **Currently Building:** ClaimSight — a 9-agent insurance claims adjudication copilot
 - 🌱 **Exploring:** System Design & Cloud Architecture
 - 💬 **Ask me about:** `React` · `Node.js` · `MongoDB` · `TypeScript`
 - ⚡ **Fun fact:** I debug with `console.log` & optimism ☕
@@ -154,17 +154,22 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Portfolio 3D -->
+      <!-- ClaimSight (flagship) -->
       <td width="50%">
-        <h3 align="center">🎨 Portfolio (3D)</h3>
-        <p align="center"><em>Immersive 3D portfolio experience</em></p>
+        <h3 align="center">🛡️ ClaimSight</h3>
+        <p align="center"><em>9-agent insurance claims adjudication copilot</em></p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-          <img src="https://img.shields.io/badge/R3F-000000?style=flat-square&logo=react&logoColor=white" alt="R3F" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+          <a href="https://github.com/kashyap-p/claimsight" target="_blank"><img src="https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+          <a href="https://claimsight-steel.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Live" /></a>
         </p>
-        <p align="center">Interactive scenes with smooth animations and WebGL-powered visuals.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/LangGraph-9_Agents-EC4899?style=flat-square" alt="9-agent" />
+          <img src="https://img.shields.io/badge/RAG-BM25_+_Re--rank-F59E0B?style=flat-square" alt="RAG" />
+          <img src="https://img.shields.io/badge/Multimodal-Vision_+_Audio_+_Text-22C55E?style=flat-square" alt="Multimodal" />
+        </p>
+        <p align="center">Multi-modal, multi-agent workflow — RAG over policy corpus, vision-based damage assessment, fraud detection, cited adjudication & an auditor QA gate. Not an API wrapper.</p>
       </td>
       <!-- Weather Tracker -->
       <td width="50%">
@@ -240,11 +245,11 @@ $ ./connect --status
 
 <div align="center">
 
-> 🧠 *“First, solve the problem. Then, write the code.”*<br><sub>— John Johnson</sub>
+> 🧠 *"First, solve the problem. Then, write the code."*<br><sub>— John Johnson</sub>
 
-> ⚡ *“Simplicity is the soul of efficiency.”*<br><sub>— Austin Freeman</sub>
+> ⚡ *"Simplicity is the soul of efficiency."*<br><sub>— Austin Freeman</sub>
 
-> 🚀 *“The best error message is the one that never shows up.”*<br><sub>— Thomas Fuchs</sub>
+> 🚀 *"The best error message is the one that never shows up."*<br><sub>— Thomas Fuchs</sub>
 
 </div>
 
