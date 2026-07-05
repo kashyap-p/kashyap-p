@@ -37,35 +37,38 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 ## 👋 &nbsp;About Me
 
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="https://github.com/kashyap-p.png" width="175" height="175" style="border-radius:50%;border:4px solid #F7B93E;" alt="Kashyap Patel" />
-      <br/><br/>
-      <a href="https://github.com/kashyap-p?tab=followers">
-        <img src="https://img.shields.io/badge/Follow_kashyap--p-0D1117?style=for-the-badge&logo=github&logoColor=F7B93E" />
-      </a>
-    </td>
-    <td>
+<div align="center">
+
+<img src="https://github.com/kashyap-p.png" width="160" height="160" style="border-radius:50%;border:4px solid #F7B93E;" alt="Kashyap Patel" />
+
+<br/>
+
+<a href="https://github.com/kashyap-p?tab=followers">
+  <img src="https://img.shields.io/badge/Follow_kashyap--p-0D1117?style=for-the-badge&logo=github&logoColor=F7B93E" />
+</a>
+
+<br/><br/>
 
 ```yaml
-name       : Kashyap Patel
-role       : Full-Stack Developer
-location   : India 🇮🇳
-open_to    : Full-time · Freelance · Open Source
+name : Kashyap Patel
+role : Full-Stack Developer
+location : India 🇮🇳
+open_to : Full-time · Freelance · Open Source
 ```
 
-**Building:** ClaimSight — a 9-agent insurance claims adjudication copilot  
-**Learning:** System Design · AWS Cloud Architecture · Three.js / WebGL  
-**Ask me about:** `React` · `Node.js` · `MongoDB` · `TypeScript` · `AI Agents`  
-**Fun fact:** I debug with `console.log` and optimism ☕  
-**Next targets:** Kubernetes · GraphQL Subscriptions · WebRTC · Rust
+<br/>
+
+🔭 **Building:** ClaimSight — a 9-agent insurance claims adjudication copilot  
+🌱 **Learning:** System Design · AWS Cloud Architecture · Three.js / WebGL  
+💬 **Ask me about:** `React` · `Node.js` · `MongoDB` · `TypeScript` · `AI Agents`  
+⚡ **Fun fact:** I debug with `console.log` and optimism ☕  
+🎯 **Next targets:** Kubernetes · GraphQL Subscriptions · WebRTC · Rust
+
+<br/>
 
 > 💡 *"Write code that is easy to read, easier to test, and built to scale."*
 
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
