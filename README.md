@@ -50,10 +50,10 @@
 <br/><br/>
 
 ```yaml
-name : Kashyap Patel
-role : Full-Stack Developer
+name     : Kashyap Patel
+role     : Full-Stack Developer
 location : India 🇮🇳
-open_to : Full-time · Freelance · Open Source
+open_to  : Full-time · Freelance · Open Source
 ```
 
 <br/>
@@ -234,7 +234,7 @@ open_to : Full-time · Freelance · Open Source
         <p align="center"><em>Full-stack photo-sharing & marketplace platform</em></p>
         <p align="center">
           <a href="https://github.com/kashyap-p/photowala"><img src="https://img.shields.io/badge/Repo-View_Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
+          <a href="https://photowala-bayad.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
